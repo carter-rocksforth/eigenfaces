@@ -1,2 +1,2 @@
 # eigenfaces
-A tutorial on using Singular Value Decomposition for Eigenface Generation
+A tutorial on using singular value decomposition (SVD) for eigenface generation.
